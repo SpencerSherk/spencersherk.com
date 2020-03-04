@@ -1,0 +1,10 @@
+@font-face {
+  src: url(./AktivGrotesk_Rg.ttf);
+  src: url(./AktivGrotesk_Bd.ttf);
+  font-family: grotesk;
+}
+
+h3 {
+	font-weight: bold;
+	font-family: grotesk;
+}
